@@ -24,3 +24,7 @@ flatpak run uk.org.jape
 ### Uninstall
 
 `flatpak uninstall uk.org.jape`
+
+## Example
+
+A working Flatpak example of Jape is available on [https://binsky.org/flatpak-jape/](https://binsky.org/flatpak-jape/)
