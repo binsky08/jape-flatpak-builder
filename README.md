@@ -17,6 +17,7 @@ Parent project: [https://github.com/RBornat/jape](https://github.com/RBornat/jap
 ### Install
 
 ```
+flatpak install org.freedesktop.Platform//21.08
 flatpak --user install jape.flatpak
 flatpak run uk.org.jape
 ```
